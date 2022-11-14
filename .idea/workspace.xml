@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="36c3fa26-d187-46b5-a5e7-62a7d5acd912" name="Changes" comment="" />
+=======
+    <list default="true" id="75fe11f6-4929-4be9-a64e-5dddc27f50c2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+    </list>
+>>>>>>> 8487652d352fdd747b332a99d887355693d04668
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="2HS7btFVQuxHNfDVlU1ivHycKmq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent"><![CDATA[{
@@ -30,6 +37,30 @@
       <option name="presentableId" value="Default" />
       <updated>1668266713285</updated>
       <workItem from="1668266717775" duration="23000" />
+=======
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HRcXWI11AMqfeqjchhOShg0RmO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75fe11f6-4929-4be9-a64e-5dddc27f50c2" name="Changes" comment="" />
+      <created>1668251391831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668251391831</updated>
+      <workItem from="1668251419666" duration="11000" />
+      <workItem from="1668251566372" duration="32000" />
+      <workItem from="1668263916700" duration="8000" />
+>>>>>>> 8487652d352fdd747b332a99d887355693d04668
     </task>
     <servers />
   </component>
